@@ -2,22 +2,11 @@
 
 **Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN**
 
-This repository contains the official implementation of the paper:  
-"Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN"
-
-**Authors**: Long Zhao, Shixun Ji, Bin Cheng, Bin He  
-**Affiliation**: Tongji University, China
-
----
-
-##  Overview
-
 SKGFusionKAN is a novel IoT intrusion detection approach that:
 - **SKGraphSAGE**: Enhances GraphSAGE with a multi-scale selective kernel attention mechanism
 - **Gated Fusion**: Dynamically integrates multi-scale node and edge features
 - **KAN Classifier**: Leverages Kolmogorov-Arnold Networks for superior nonlinear modeling
 
----
 
 ##  Requirements
 
